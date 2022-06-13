@@ -9,6 +9,7 @@ ironstyle rnx aj2 irostyle_consortium for Machine Learning &amp; Computer Vision
 # AWS
 
 
+
 ### 실습환경
 
-![Irostyle](https://user-images.githubusercontent.com/54794815/171532611-7fef752f-554d-426e-8c0a-3563e2f06ada.jpg)
+![uniinfo-consortium(6-13)](https://user-images.githubusercontent.com/54794815/173274937-87eac0e1-8752-45b4-8427-36a57f185263.jpg)
