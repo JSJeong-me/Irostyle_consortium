@@ -4,6 +4,10 @@
 # irostyle_consortium
 ironstyle rnx aj2 irostyle_consortium for Machine Learning &amp; Computer Vision
 
+    기본 과정 ->  https://url.kr/73ace9
+
+    심화 과정 ->  기본 과정옆 sheet tab
+
 # Git
 
 # AWS
